@@ -9,4 +9,4 @@ configmap:
 
 image:
   name: goonz/myflaskapp
-  tag: latest
+  tag: v1
